@@ -1,0 +1,28 @@
+.title {
+  color: white;
+  text-align: center;
+  margin-bottom: 1rem;
+}
+
+.container {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 20px;
+  padding: 20px;
+  list-style: none;
+}
+
+.favoriteButton {
+  margin-top: 0.5rem;
+  padding: 0.5rem 1rem;
+  background: #ff9800;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  color: white;
+  font-weight: bold;
+}
+
+.favoriteButton:hover {
+  background: #e68900;
+}

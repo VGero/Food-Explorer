@@ -1,0 +1,19 @@
+.error {
+  text-align: center;
+  color: white;
+  margin-top: 3rem;
+}
+
+.homeLink {
+  display: inline-block;
+  margin-top: 1rem;
+  padding: 0.6rem 1rem;
+  background: #ff9800;
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
+}
+
+.homeLink:hover {
+  background: #e68900;
+}

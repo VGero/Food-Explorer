@@ -1,0 +1,71 @@
+.foodCard {
+  background: #1e1e1e;
+  border-radius: 10px;
+  padding: 1rem;
+  text-align: center;
+  color: white;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.5);
+  transition: transform 0.2s ease;
+}
+
+.foodCard:hover {
+  transform: scale(1.05);
+}
+
+.foodCard img {
+  width: 100%;
+  border-radius: 10px;
+  margin-bottom: 0.5rem;
+}
+
+.foodCardInfo {
+  padding: 1rem;
+  text-align: center;
+}
+
+.foodCardName {
+  font-size: 1.1rem;
+  font-weight: bold;
+  margin-bottom: 0.5rem;
+}
+
+.foodCardDescription {
+  font-size: 0.95rem;
+  line-height: 1.4;
+}
+.favoriteButton {
+  margin-top: 0.5rem;
+  padding: 0.6rem 1.2rem;
+  background: #ff9800;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  color: white;
+  font-weight: bold;
+  width: 50%;
+  margin-right: auto;
+}
+
+.favoriteButton:hover {
+  background: #e68900;
+}
+
+.deleteButton {
+  margin-top: 0.4rem;
+  padding: 0.4rem 0.8rem;
+  background: #d32f2f;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  color: white;
+  font-weight: bold;
+  font-size: 0.85rem;
+  width: 30%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.deleteButton:hover {
+  background: #b71c1c;
+}
