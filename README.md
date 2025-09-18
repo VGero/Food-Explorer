@@ -3,13 +3,13 @@
 ## 🖼️ Preview
 
 ### Home Page  
-![Home Page](./Assets/ReactFoodHomePage.png)
+![Home Page](./assets/ReactFoodHomePage.png)
 
 ### Favorites Page  
-![Favorites Page](./Assets/ReactFoodFavorites.png)
+![Favorites Page](./assets/ReactFoodFavorites.png)
 
 ### Add Food Page  
-![Add Food Page](./Assets/ReactFoodAdd.png)
+![Add Food Page](./assets/ReactFoodAdd.png)
 
 ## 🛠️ How to Run Locally
 📦 Backend
