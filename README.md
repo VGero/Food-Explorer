@@ -6,10 +6,10 @@
 ![Home Page](./react-recipe-explorer/assets/ReactFoodHomePage.png)
 
 ### Favorites Page  
-![Favorites Page](./react-recipe-explorer/assets/ReactFoodFavorites.png)
+![Favorites Page](./react-recipe-explorer/assets/ReactFoodFavoritesPage.png)
 
 ### Add Food Page  
-![Add Food Page](./react-recipe-explorer/assets/ReactFoodAdd.png)
+![Add Food Page](./react-recipe-explorer/assets/ReactFoodAddPage.png)
 
 ## 🛠️ How to Run Locally
 📦 Backend
