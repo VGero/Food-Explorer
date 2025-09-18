@@ -3,7 +3,7 @@
 ## 🖼️ Preview
 
 ### Home Page  
-![Home Page](./assets/ReactFoodHomePage.png)
+![Home Page](./react-recipe-explorer/assets/ReactFoodHomePage.png)
 
 ### Favorites Page  
 ![Favorites Page](./assets/ReactFoodFavorites.png)
